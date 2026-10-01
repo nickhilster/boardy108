@@ -1,0 +1,22 @@
+[
+  {
+    "event_id": "7a1fe6fb01b14e888228895e49c81f95",
+    "scene_id": 85,
+    "name": "boardy-085-tiny-parts-workbench",
+    "status": "rejected",
+    "note": "User rejected sample 085 because it contains eyebrows; new still-image canon prohibits eyebrows.",
+    "reviewer": null,
+    "timestamp": "2026-10-01T16:10:56.078734+00:00",
+    "output_hash": "845257a7e9316012385e2b80fcb4d436e9c112d50c912c3f3cf6b5b216f4522d"
+  },
+  {
+    "event_id": "8c9c133536c941f5b47f7288b8487d32",
+    "scene_id": 85,
+    "name": "boardy-085-tiny-parts-workbench",
+    "status": "accepted",
+    "note": "User said the corrected no-eyebrow render is solid.",
+    "reviewer": null,
+    "timestamp": "2026-10-01T16:24:54.524997+00:00",
+    "output_hash": "0e315d506cd8250fe6f1cb9650be6d3805caa1372b8fa5965f3dfdc5821c2188"
+  }
+]

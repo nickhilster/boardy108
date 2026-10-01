@@ -1,0 +1,17 @@
+{
+  "camera": "Close-medium shot, slightly high angle onto a table.",
+  "composition": "Boardy at center tapping a loose stack of index cards on the table to square them into one neat pile, both hands visible.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Soft warm daylight from camera left.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. Boardy squares a loose stack of blank index cards into one tidy pile on a wooden desk, a few cards still fanned out beside it. Boardy's head is the familiar matte tan corrugated cardboard box with a straight front seam, slightly uneven edges and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, floating brows, brow marks or other facial features. He wears the fitted dark navy suit, crisp white shirt and red tie from the approved official reference, with unchanged proportions and silhouette. No lettering, logos or watermarks anywhere in the image.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark, writing on the cards"
+}

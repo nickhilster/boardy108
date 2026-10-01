@@ -1,0 +1,1354 @@
+{
+  "version": 2,
+  "canon": "canon.json",
+  "defaults": {
+    "width": 1024,
+    "height": 1024,
+    "max_render_references": 1
+  },
+  "batches": [
+    {
+      "id": "set-01-first-contact",
+      "title": "First contact",
+      "order": 1
+    },
+    {
+      "id": "set-02-cartography",
+      "title": "Cartography",
+      "order": 2
+    },
+    {
+      "id": "set-03-work",
+      "title": "Work",
+      "order": 3
+    },
+    {
+      "id": "set-04-curiosity",
+      "title": "Curiosity",
+      "order": 4
+    },
+    {
+      "id": "set-05-memory",
+      "title": "Memory",
+      "order": 5
+    },
+    {
+      "id": "set-06-misreadings",
+      "title": "Misreadings",
+      "order": 6
+    },
+    {
+      "id": "set-07-idle",
+      "title": "Idle",
+      "order": 7
+    },
+    {
+      "id": "set-08-craft",
+      "title": "Craft",
+      "order": 8
+    },
+    {
+      "id": "set-09-the-box",
+      "title": "The box",
+      "order": 9
+    }
+  ],
+  "panels": [
+    {
+      "name": "boardy-001-landline-ringing",
+      "scene_number": 1,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/001-landline-ringing.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108001,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-002-headphones-half-on",
+      "scene_number": 2,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/002-headphones-half-on.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108002,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-003-doorway-of-light",
+      "scene_number": 3,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/003-doorway-of-light.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108003,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-004-server-rack-corridor",
+      "scene_number": 4,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/004-server-rack-corridor.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108004,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-005-curb-at-dawn",
+      "scene_number": 5,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/005-curb-at-dawn.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108005,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-006-folded-note",
+      "scene_number": 6,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/006-folded-note.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108006,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-007-child-eye-level",
+      "scene_number": 7,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/007-child-eye-level.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108007,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-008-elevator-door",
+      "scene_number": 8,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/008-elevator-door.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108008,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-009-phone-screen",
+      "scene_number": 9,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/009-phone-screen.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108009,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-010-train-platform",
+      "scene_number": 10,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/010-train-platform.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108010,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-011-paper-plane",
+      "scene_number": 11,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/011-paper-plane.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108011,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-012-rotary-phone",
+      "scene_number": 12,
+      "batch_id": "set-01-first-contact",
+      "brief": "briefs/012-rotary-phone.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108012,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-013-constellation-drawing",
+      "scene_number": 13,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/013-constellation-drawing.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108013,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-014-thread-bridge",
+      "scene_number": 14,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/014-thread-bridge.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108014,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-015-pinned-wall-map",
+      "scene_number": 15,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/015-pinned-wall-map.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108015,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-016-tightrope-between-houses",
+      "scene_number": 16,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/016-tightrope-between-houses.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108016,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-017-lantern-floor-plan",
+      "scene_number": 17,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/017-lantern-floor-plan.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108017,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-018-river-current",
+      "scene_number": 18,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/018-river-current.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108018,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-019-lighthouse-beam",
+      "scene_number": 19,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/019-lighthouse-beam.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108019,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-020-vine-trellis",
+      "scene_number": 20,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/020-vine-trellis.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108020,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-021-switchboard-patching",
+      "scene_number": 21,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/021-switchboard-patching.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108021,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-022-dark-aisle-usher",
+      "scene_number": 22,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/022-dark-aisle-usher.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108022,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-023-loom-weaving",
+      "scene_number": 23,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/023-loom-weaving.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108023,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-024-stem-grafting",
+      "scene_number": 24,
+      "batch_id": "set-02-cartography",
+      "brief": "briefs/024-stem-grafting.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108024,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-025-whiteboard-arrows",
+      "scene_number": 25,
+      "batch_id": "set-03-work",
+      "brief": "briefs/025-whiteboard-arrows.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108025,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-026-meeting-notes",
+      "scene_number": 26,
+      "batch_id": "set-03-work",
+      "brief": "briefs/026-meeting-notes.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108026,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-027-video-call-tile",
+      "scene_number": 27,
+      "batch_id": "set-03-work",
+      "brief": "briefs/027-video-call-tile.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108027,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-028-index-card-stack",
+      "scene_number": 28,
+      "batch_id": "set-03-work",
+      "brief": "briefs/028-index-card-stack.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108028,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-029-signature-line",
+      "scene_number": 29,
+      "batch_id": "set-03-work",
+      "brief": "briefs/029-signature-line.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108029,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-030-windowsill-plant",
+      "scene_number": 30,
+      "batch_id": "set-03-work",
+      "brief": "briefs/030-windowsill-plant.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108030,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-031-stacking-chairs",
+      "scene_number": 31,
+      "batch_id": "set-03-work",
+      "brief": "briefs/031-stacking-chairs.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108031,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-032-desk-at-2am",
+      "scene_number": 32,
+      "batch_id": "set-03-work",
+      "brief": "briefs/032-desk-at-2am.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108032,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-033-relay-baton",
+      "scene_number": 33,
+      "batch_id": "set-03-work",
+      "brief": "briefs/033-relay-baton.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108033,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-034-holding-door",
+      "scene_number": 34,
+      "batch_id": "set-03-work",
+      "brief": "briefs/034-holding-door.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108034,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-035-cable-knot",
+      "scene_number": 35,
+      "batch_id": "set-03-work",
+      "brief": "briefs/035-cable-knot.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108035,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-036-printed-transcript",
+      "scene_number": 36,
+      "batch_id": "set-03-work",
+      "brief": "briefs/036-printed-transcript.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108036,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-037-tall-grass",
+      "scene_number": 37,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/037-tall-grass.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108037,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-038-ridge-at-sunrise",
+      "scene_number": 38,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/038-ridge-at-sunrise.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108038,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-039-tide-pool",
+      "scene_number": 39,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/039-tide-pool.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108039,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-040-snowflake-on-glove",
+      "scene_number": 40,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/040-snowflake-on-glove.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108040,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-041-campfire-sparks",
+      "scene_number": 41,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/041-campfire-sparks.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108041,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-042-newspaper-in-rain",
+      "scene_number": 42,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/042-newspaper-in-rain.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108042,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-043-dock-storm",
+      "scene_number": 43,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/043-dock-storm.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108043,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-044-night-sky",
+      "scene_number": 44,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/044-night-sky.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108044,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-045-fern-forest",
+      "scene_number": 45,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/045-fern-forest.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108045,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-046-beetle-on-leaf",
+      "scene_number": 46,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/046-beetle-on-leaf.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108046,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-047-canyon-arms-out",
+      "scene_number": 47,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/047-canyon-arms-out.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108047,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-048-bicycle-at-dawn",
+      "scene_number": 48,
+      "batch_id": "set-04-curiosity",
+      "brief": "briefs/048-bicycle-at-dawn.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108048,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-049-labelled-drawers",
+      "scene_number": 49,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/049-labelled-drawers.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108049,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-050-stack-of-books",
+      "scene_number": 50,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/050-stack-of-books.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108050,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-051-candlelit-ledger",
+      "scene_number": 51,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/051-candlelit-ledger.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108051,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-052-horizon-library",
+      "scene_number": 52,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/052-horizon-library.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108052,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-053-photograph-in-light",
+      "scene_number": 53,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/053-photograph-in-light.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108053,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-054-marble-sorting",
+      "scene_number": 54,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/054-marble-sorting.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108054,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-055-cassette-unspooling",
+      "scene_number": 55,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/055-cassette-unspooling.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108055,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-056-pressed-flower",
+      "scene_number": 56,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/056-pressed-flower.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108056,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-057-extinguished-star",
+      "scene_number": 57,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/057-extinguished-star.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108057,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-058-borrowed-book",
+      "scene_number": 58,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/058-borrowed-book.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108058,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-059-ribbon-marker",
+      "scene_number": 59,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/059-ribbon-marker.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108059,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-060-tree-initials",
+      "scene_number": 60,
+      "batch_id": "set-05-memory",
+      "brief": "briefs/060-tree-initials.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108060,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-061-different-mirror-pose",
+      "scene_number": 61,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/061-different-mirror-pose.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108061,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-062-unplugged-megaphone",
+      "scene_number": 62,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/062-unplugged-megaphone.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108062,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-063-half-erased-sentence",
+      "scene_number": 63,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/063-half-erased-sentence.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108063,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-064-suitcase-label",
+      "scene_number": 64,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/064-suitcase-label.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108064,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-065-speech-bubble-drift",
+      "scene_number": 65,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/065-speech-bubble-drift.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108065,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-066-lagging-shadow",
+      "scene_number": 66,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/066-lagging-shadow.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108066,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-067-silhouette-jigsaw",
+      "scene_number": 67,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/067-silhouette-jigsaw.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108067,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-068-crooked-picture",
+      "scene_number": 68,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/068-crooked-picture.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108068,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-069-upside-down-map",
+      "scene_number": 69,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/069-upside-down-map.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108069,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-070-hall-of-mirrors",
+      "scene_number": 70,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/070-hall-of-mirrors.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108070,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-071-umbrella-indoors",
+      "scene_number": 71,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/071-umbrella-indoors.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108071,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-072-slack-marionette",
+      "scene_number": 72,
+      "batch_id": "set-06-misreadings",
+      "brief": "briefs/072-slack-marionette.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108072,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-073-office-after-hours",
+      "scene_number": 73,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/073-office-after-hours.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108073,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-074-hallway-at-3am",
+      "scene_number": 74,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/074-hallway-at-3am.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108074,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-075-phone-off-hook",
+      "scene_number": 75,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/075-phone-off-hook.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108075,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-076-snow-bench",
+      "scene_number": 76,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/076-snow-bench.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108076,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-077-cold-tea",
+      "scene_number": 77,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/077-cold-tea.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108077,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-078-drained-pool",
+      "scene_number": 78,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/078-drained-pool.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108078,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-079-midnight-station",
+      "scene_number": 79,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/079-midnight-station.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108079,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-080-daylight-lighthouse",
+      "scene_number": 80,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/080-daylight-lighthouse.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108080,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-081-rooftop-city-hum",
+      "scene_number": 81,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/081-rooftop-city-hum.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108081,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-082-night-bus",
+      "scene_number": 82,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/082-night-bus.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108082,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-083-silent-record-player",
+      "scene_number": 83,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/083-silent-record-player.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108083,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-084-suit-on-chair",
+      "scene_number": 84,
+      "batch_id": "set-07-idle",
+      "brief": "briefs/084-suit-on-chair.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108084,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-085-tiny-parts-workbench",
+      "scene_number": 85,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/085-tiny-parts-workbench.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108085,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-086-box-cross-section",
+      "scene_number": 86,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/086-box-cross-section.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108086,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-087-soldering-spark",
+      "scene_number": 87,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/087-soldering-spark.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108087,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-088-pottery-wheel",
+      "scene_number": 88,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/088-pottery-wheel.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108088,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-089-hand-set-type",
+      "scene_number": 89,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/089-hand-set-type.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108089,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-090-paint-colour-field",
+      "scene_number": 90,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/090-paint-colour-field.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108090,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-091-guitar-tuning",
+      "scene_number": 91,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/091-guitar-tuning.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108091,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-092-workshop-mannequin",
+      "scene_number": 92,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/092-workshop-mannequin.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108092,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-093-clay-box",
+      "scene_number": 93,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/093-clay-box.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108093,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-094-numbered-drawings",
+      "scene_number": 94,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/094-numbered-drawings.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108094,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-095-welding-mask",
+      "scene_number": 95,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/095-welding-mask.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108095,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-096-drafting-table",
+      "scene_number": 96,
+      "batch_id": "set-08-craft",
+      "brief": "briefs/096-drafting-table.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108096,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-097-unsealed-box",
+      "scene_number": 97,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/097-unsealed-box.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108097,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-098-flat-packed-box",
+      "scene_number": 98,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/098-flat-packed-box.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108098,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-099-packing-tape-seam",
+      "scene_number": 99,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/099-packing-tape-seam.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108099,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-100-rain-softened-corner",
+      "scene_number": 100,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/100-rain-softened-corner.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108100,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-101-box-head-shelf",
+      "scene_number": 101,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/101-box-head-shelf.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108101,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-102-shipping-label",
+      "scene_number": 102,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/102-shipping-label.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108102,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-103-wind-lifted-flap",
+      "scene_number": 103,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/103-wind-lifted-flap.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108103,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-104-body-bow",
+      "scene_number": 104,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/104-body-bow.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108104,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-105-smile-stroke",
+      "scene_number": 105,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/105-smile-stroke.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108105,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-106-paper-lantern",
+      "scene_number": 106,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/106-paper-lantern.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108106,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-107-stacked-boxes",
+      "scene_number": 107,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/107-stacked-boxes.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108107,
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "name": "boardy-108-box-on-doorstep",
+      "scene_number": 108,
+      "batch_id": "set-09-the-box",
+      "brief": "briefs/108-box-on-doorstep.txt",
+      "references": [
+        "boardy"
+      ],
+      "seed": 108108,
+      "width": 1024,
+      "height": 1024
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "camera": { "type": "string" },
+    "composition": { "type": "string" },
+    "characters": { "type": "array", "items": { "type": "string" } },
+    "locked_traits": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Concrete visual facts to hold constant across panels (identity, costume, palette, proportions). Every entry must be a real visual detail, never a restatement of these instructions."
+    },
+    "lighting": { "type": "string" },
+    "continuity": {
+      "type": "string",
+      "description": "How this panel relates to a prior panel or an established sequence (recurring character, location, or story beat). Leave as an empty string for a standalone image with no prior panel to be continuous with -- do not invent a sequence that does not exist."
+    },
+    "positive_prompt": {
+      "type": "string",
+      "description": "The only field the renderer actually reads as the image description, together with camera, composition, characters, locked_traits, and lighting. Anything the panel must show, including a required medium, color count, or art style (e.g. 'strictly two-color duotone', 'black and white line art only'), must be stated here affirmatively -- not only in negative_prompt."
+    },
+    "negative_prompt": {
+      "type": "string",
+      "description": "Exclusions for a human reviewer's reference only. The renderer does not apply this field, so it must never be the only place a required exclusion or medium restriction is stated -- restate it affirmatively in positive_prompt instead."
+    }
+  },
+  "required": [
+    "camera",
+    "composition",
+    "characters",
+    "locked_traits",
+    "lighting",
+    "continuity",
+    "positive_prompt",
+    "negative_prompt"
+  ],
+  "additionalProperties": false
+}

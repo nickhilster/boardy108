@@ -1,0 +1,17 @@
+{
+  "camera": "Wide low-angle shot from the rock, looking up.",
+  "composition": "Boardy lies back on a large flat rock in the lower foreground, box tilted up toward a huge starry night sky with a faint Milky Way.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Dim blue starlight and faint moonlight.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. Boardy lies back on a rock looking up at a vast night sky full of stars, the Milky Way arching overhead, the rock edge and silhouetted trees below. Boardy's head is the familiar matte tan corrugated cardboard box with a straight front seam, slightly uneven edges and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, floating brows, brow marks or other facial features. He wears the fitted dark navy suit, crisp white shirt and red tie from the approved official reference, with unchanged proportions and silhouette. No lettering, logos or watermarks anywhere in the image.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark"
+}

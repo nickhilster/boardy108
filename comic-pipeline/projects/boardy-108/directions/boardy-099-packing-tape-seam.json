@@ -1,0 +1,18 @@
+{
+  "camera": "Macro close-up, shallow depth of field.",
+  "composition": "Extreme close-up of a strip of clear packing tape being smoothed down by a thumb across a vertical seam of cardboard, the tape slightly crinkled at one end.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie.",
+    "A thumb smoothing the tape, no other body parts."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Soft side light grazing the cardboard and tape.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. Packing tape smoothed down across a cardboard seam, the corrugated paper fibres and slight crinkles in the tape in crisp macro detail. This is a detail of Boardy's matte tan corrugated cardboard box head seam; if any of the face edge is visible it shows only simple deep-navy round eyes and a curved smile with absolutely no eyebrows or brow marks. No lettering, logos or watermarks anywhere.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark"
+}

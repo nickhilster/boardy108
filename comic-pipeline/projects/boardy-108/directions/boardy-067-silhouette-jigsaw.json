@@ -1,0 +1,18 @@
+{
+  "camera": "Top-down flat lay shot.",
+  "composition": "A wooden table with a jigsaw puzzle almost complete in the outline of Boardy's boxy silhouette; one piece sits upside down; remaining pieces scattered at the side.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie.",
+    "A jigsaw puzzle depicting Boardy's silhouette, no actual character body shown."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Soft overhead daylight, even and gentle.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. A near-finished jigsaw puzzle in the silhouette of Boardy's boxy head and suit shoulders, one piece set in upside down, loose pieces and a mug beside it on a wooden table. The puzzle image shows Boardy's matte tan corrugated box head with two simple round navy eyes and one curved navy smile, absolutely no eyebrows or brow marks, a navy suit, white shirt and red tie. No lettering, logos or watermarks anywhere.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark"
+}

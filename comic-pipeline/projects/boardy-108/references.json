@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "references": {
+    "boardy": {
+      "path": "references/boardy-canonical.png",
+      "kind": "character",
+      "status": "approved",
+      "sha256": "85cecb75e26d98e765b473c7c762a919af7340f892ee6014925ceb22e3648bc5",
+      "source_path": "D:\\DEV\\BoardyAnimated\\boardy-landing-logo-transparent.png",
+      "origin": "User-designated BoardyAnimated visual reference, copied byte-for-byte without pixel changes.",
+      "notes": "User approved the official-page visual canon, including simple dark blue circular eyes, curved smile, and red tie. This supersedes the email's no-eyes/no-tie instructions. Preserve compatible email traits: cardboard box construction, blue suit/white shirt, proportions, and silhouette. User specified that still images must never contain eyebrows. The official reference pixels are unchanged."
+    }
+  }
+}

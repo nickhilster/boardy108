@@ -1,0 +1,1 @@
+A library whose shelves recede past the horizon.

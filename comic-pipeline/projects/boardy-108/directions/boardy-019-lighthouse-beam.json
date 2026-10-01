@@ -1,0 +1,17 @@
+{
+  "camera": "Wide low-angle shot from the sea level looking up and across.",
+  "composition": "A tall white lighthouse on the right; Boardy standing on its gallery at the top beside the lamp, a long beam sweeping left over black water.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Night; a bright lamp beam as the main light and a rim of moonlight on the sea.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. Boardy stands at the top gallery of a lighthouse at night beside the great lamp, its beam sweeping across black water, the box head lit softly by the lamp. Boardy's head is the familiar matte tan corrugated cardboard box with a straight front seam, slightly uneven edges and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, floating brows, brow marks or other facial features. He wears the fitted dark navy suit, crisp white shirt and red tie from the approved official reference, with unchanged proportions and silhouette. No lettering, logos or watermarks anywhere in the image.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark"
+}

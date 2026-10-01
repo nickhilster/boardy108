@@ -1,0 +1,17 @@
+{
+  "camera": "Medium wide shot, eye level, on a stage.",
+  "composition": "Boardy's body in the suit takes a bow at center, bent at the waist, while the box head is held under one arm facing the viewer.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Warm stage spotlight from above front with dark velvet curtain behind.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. On a small stage, Boardy's suited body takes a deep bow while he holds his box head tucked under one arm, face toward the audience. The box head under his arm is the familiar matte tan corrugated cardboard with a straight seam and subtle tape detail, with exactly two simple deep-navy circular eyes and one friendly curved navy smile and absolutely no eyebrows or brow marks. The body wears the fitted dark navy suit, crisp white shirt and red tie from the approved reference. No lettering, logos or watermarks anywhere.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark"
+}

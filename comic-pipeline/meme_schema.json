@@ -1,0 +1,47 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "properties": {
+    "concept_summary": {
+      "type": "string",
+      "description": "One-line human-readable summary of the joke/twist, for a human reviewer. Not read by any engine."
+    },
+    "remix": {
+      "type": "object",
+      "properties": {
+        "enabled": {
+          "type": "boolean",
+          "description": "Whether the base template image should be edited before captions are composited. If false, remix.positive_prompt is ignored entirely and the downloaded template is used as-is."
+        },
+        "positive_prompt": {
+          "type": "string",
+          "description": "The ONLY field the remix engine reads. Must affirmatively state both what to change in the artwork AND what to keep recognizable as this meme format (poses, layout, palette). May be empty when enabled is false."
+        },
+        "locked_elements": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Advisory only, for a human reviewer's reference. The remix engine never reads this -- anything essential to keep recognizable must ALSO be stated affirmatively inside positive_prompt, the same way panel_schema.json's negative_prompt is advisory-only and must not be the sole place a requirement is stated."
+        }
+      },
+      "required": ["enabled", "positive_prompt", "locked_elements"],
+      "additionalProperties": false
+    },
+    "captions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "box_index": { "type": "integer" },
+          "text": {
+            "type": "string",
+            "description": "May be an empty string for an intentionally blank box."
+          }
+        },
+        "required": ["box_index", "text"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["concept_summary", "remix", "captions"],
+  "additionalProperties": false
+}

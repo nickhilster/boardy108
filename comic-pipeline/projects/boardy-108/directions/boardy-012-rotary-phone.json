@@ -1,0 +1,17 @@
+{
+  "camera": "Medium close-up, eye level, 50mm look.",
+  "composition": "Boardy in the center holding a vintage rotary phone's receiver tucked against the side of the box, the rotary base visible at lower right; face toward the viewer.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Warm tungsten lamp light from camera left, soft shadows.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. Boardy answers a vintage black rotary phone, the receiver tucked against the side of his box head, the heavy dial base in his other hand, in a warm retro room with wood paneling blurred behind. Boardy's head is the familiar matte tan corrugated cardboard box with a straight front seam, slightly uneven edges and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, floating brows, brow marks or other facial features. He wears the fitted dark navy suit, crisp white shirt and red tie from the approved official reference, with unchanged proportions and silhouette. No lettering, logos or watermarks anywhere in the image.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark, numbers on the dial"
+}

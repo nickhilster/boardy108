@@ -1,0 +1,17 @@
+{
+  "camera": "Medium close-up, framed to include Boardy's head and torso plus the work surface and tiny parts.",
+  "composition": "Boardy leans forward at the center of a small workbench; the magnifying glass is aimed at a cluster of tiny parts in the lower foreground, leaving his simple face fully visible and brow-free.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a dark blue suit, white shirt, and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box with visible seams, packing tape, and imperfect edges.",
+    "Two simple dark blue circular eyes and a friendly dark blue curved smile; no nose or eyebrows.",
+    "Fitted blue suit, white shirt, and red tie matching the approved official-page reference.",
+    "Preserve Boardy's proportions and silhouette."
+  ],
+  "lighting": "Soft warm task lighting from the upper left, with gentle shadows that reveal the cardboard grain and tiny parts without obscuring the face.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic craft scene of Boardy seated at a miniature workbench, carefully examining tiny brass gears, screws, springs, and washers spread across the tabletop. He holds a magnifying glass over the tiny parts on the workbench, well below his face; the magnifier does not cover or point at his face. Boardy's head is the familiar matte tan corrugated cardboard box, with visible paper fibers, a straight front seam, slightly uneven edges, and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, brow marks, or other facial features. He wears the fitted dark navy suit, crisp white shirt, and red tie from the approved reference. A few tiny precision tools and parts trays complete the focused craft setting. Keep the face unobstructed and the tiny parts clearly readable.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, magnifier covering the face"
+}

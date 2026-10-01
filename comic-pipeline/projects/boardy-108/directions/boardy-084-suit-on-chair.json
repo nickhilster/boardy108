@@ -1,0 +1,17 @@
+{
+  "camera": "Medium wide shot, eye level.",
+  "composition": "A navy suit jacket, white shirt and red tie hung neatly on a wooden chair at left; at right on a table, Boardy's cardboard box head rests alone with its face toward the viewer.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Soft window light from camera left, quiet and still.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. A navy suit with white shirt and red tie hangs on a chair while Boardy's cardboard box head rests on the table beside it, a quiet bedroom with a window. The resting box head is the familiar matte tan corrugated cardboard box with a straight seam and subtle tape detail, with exactly two simple deep-navy circular eyes and one friendly curved navy smile and absolutely no eyebrows or brow marks. The suit is the fitted dark navy suit, crisp white shirt and red tie from the approved reference. No lettering, logos or watermarks anywhere.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark"
+}

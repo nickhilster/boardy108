@@ -1,0 +1,17 @@
+{
+  "camera": "Medium wide shot, slightly high angle, night.",
+  "composition": "Boardy at a drafting table at night; three slightly different versions of the same drawing are laid side by side on the table, each a variation of one idea.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Single drafting lamp casting a warm pool of light on the table, dark room beyond.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. Boardy at a drafting table at night with three versions of the same idea drawn side by side, pencil and set squares nearby, the drawings consisting of abstract diagrams without text. Boardy's head is the familiar matte tan corrugated cardboard box with a straight front seam, slightly uneven edges and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, floating brows, brow marks or other facial features. He wears the fitted dark navy suit, crisp white shirt and red tie from the approved official reference, with unchanged proportions and silhouette. No lettering, logos or watermarks anywhere in the image.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark, legible labels"
+}

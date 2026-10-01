@@ -1,0 +1,12 @@
+[
+  {
+    "event_id": "3176d53678a74d2fb4c8e343aca50f32",
+    "scene_id": 1,
+    "name": "boardy-001-landline-ringing",
+    "status": "accepted",
+    "note": "User approved sample 001 and its Boardy look",
+    "reviewer": null,
+    "timestamp": "2026-10-01T16:10:55.719993+00:00",
+    "output_hash": "e3c3a453baf358fefd9fed35f700a57c03b9590bb4729c28aace5fed885aecc9"
+  }
+]

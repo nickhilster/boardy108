@@ -1,0 +1,18 @@
+{
+  "camera": "Medium wide shot, eye level, straight on.",
+  "composition": "A stack of plain cardboard boxes at center; the top box wears a navy suit collar, white shirt collar and red tie around it as if it were a head, the face on its front with eyes and a smile.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie.",
+    "A stack of cardboard boxes, the top one wearing a suit collar and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Soft warm warehouse light from camera left.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. A tall stack of cardboard boxes in which the top box wears a navy suit collar, white shirt collar and red tie, with the friendly face on its front, a warehouse softly blurred behind. The top box is the familiar matte tan corrugated cardboard with a straight seam, with exactly two simple deep-navy circular eyes and one friendly curved navy smile and absolutely no eyebrows or brow marks. The collar is the fitted dark navy suit, crisp white shirt and red tie from the approved reference. No lettering, logos or watermarks anywhere.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark"
+}

@@ -1,0 +1,19 @@
+Boardy as director, panel 108 (user-authored revision of the original scene 108 brief).
+
+Subject: a film director on set. Male figure, fitted navy blue suit, crisp white shirt, plain dark tie, cardboard box for a head. The box is unprinted kraft-brown board with a clean horizontal seam, a simple friendly smile, two small dark eye marks above it. Warm and confident, mid-thought. No eyebrows, floating brows, or brow-like marks anywhere (global still-image canon). The plain dark tie is a scene-specific exception to the ordinary red-tie canon.
+
+Action: one hand raised as if calling a note, the other holding a clapperboard. Oversized black-and-white clapperboard angled to camera, "108" chalked on the slate. Folding canvas director's chair behind, backrest blank. Small field monitor in the lower foreground, screen glow only, contents unreadable.
+
+Logo handling (production note): the slate must be rendered clean and unobstructed, with "108" chalked on it and a clear empty area reserved for the logo. Do not draw, imitate or approximate any logo in the image. The official Boardy logo is added afterwards as an exact flat image insert, once, on the slate.
+
+Composition: medium shot at chest height, 35mm look, shallow depth of field. Studio behind, out of focus: softboxes, coiled cable, scuffed floor.
+
+Light: single soft key from camera left, cool ambient fill, one warm practical in the background. Matte, no glare.
+
+Palette: navy, warm grey, kraft brown, one accent in the logo's own colour.
+
+Text: the chalked 108 only in the rendered image (the logo is inserted afterwards). No other lettering anywhere.
+
+Exclude: extra people, extra limbs, deformed hands, gibberish text, watermark, signature, logo distortion, collage, heavy 3D render sheen.
+
+Validator: reject the panel if the logo's shape or colour drifts from the reference.

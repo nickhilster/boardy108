@@ -1,0 +1,17 @@
+{
+  "camera": "Medium shot across a small cafe table, slightly high angle.",
+  "composition": "Boardy on the left, both hands visible and extended across the small round table, holding out a small folded paper note toward the empty seat opposite.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Soft window light from camera right, warm cafe ambience, gentle shadows.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. Boardy hands a small folded paper note across a round cafe table, both hands clearly visible and holding the note, an empty cup and saucer on the table, warm cafe interior blurred behind. Boardy's head is the familiar matte tan corrugated cardboard box with a straight front seam, slightly uneven edges and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, floating brows, brow marks or other facial features. He wears the fitted dark navy suit, crisp white shirt and red tie from the approved official reference, with unchanged proportions and silhouette. No lettering, logos or watermarks anywhere in the image.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark, writing on the note"
+}

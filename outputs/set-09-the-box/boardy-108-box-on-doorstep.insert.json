@@ -1,0 +1,32 @@
+{
+  "render": "projects\\boardy-108\\outputs\\set-09-the-box\\boardy-108-box-on-doorstep.png",
+  "render_sha256": "ccde269e1e2fd0ba627fe8519f1e916a5439b92c300ae1ef8b87c44b2cd763d5",
+  "logo": "D:\\DEV\\BoardyAnimated\\boardy-landing-logo-transparent.png",
+  "logo_sha256": "85cecb75e26d98e765b473c7c762a919af7340f892ee6014925ceb22e3648bc5",
+  "logo_size": [
+    1074,
+    1160
+  ],
+  "insert_box": [
+    478,
+    505,
+    852,
+    690
+  ],
+  "insert_position": [
+    579,
+    505
+  ],
+  "insert_size": [
+    171,
+    185
+  ],
+  "slate_fill_rgb": [
+    29,
+    40,
+    46
+  ],
+  "output": "D:\\DEV\\Boardy108\\outputs\\set-09-the-box\\boardy-108-box-on-doorstep.png",
+  "output_sha256": "45bae3fe45962563352509ac1168e6d3f137056ee397bd21dde070957f189cde",
+  "opaque_pixel_mismatches": 0
+}

@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "locked_traits": [
+    "Male humanoid; fitted blue suit, white shirt, and red tie matching the approved official-page reference.",
+    "Matte corrugated cardboard box with visible seams, packing tape, and imperfect edges.",
+    "Simple dark blue circular eyes and friendly dark blue curved smile matching the approved official-page reference; no nose or additional facial features.",
+    "Still images must never show eyebrows, floating brows, or brow-like marks. Preserve the official-page face with eyes and smile only.",
+    "Identical proportions and silhouette."
+  ],
+  "allowed_variations": [
+    "environment",
+    "weather",
+    "light",
+    "scale",
+    "era",
+    "medium (photograph, risograph, blueprint, clay, wireframe, line art)",
+    "camera angle",
+    "alone/with people"
+  ],
+  "prohibitions": [
+    "Original work only; no licensed characters, brands, or logos.",
+    "No eyebrows in any still image, even when a scene brief or prop suggests them."
+  ]
+}

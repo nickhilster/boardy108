@@ -1,0 +1,17 @@
+{
+  "camera": "Close-medium shot, slightly high angle.",
+  "composition": "Boardy at center lowering a thick hardback book onto a second book to press a delicate pink flower between them, one pressed flower peeking from between the pages.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Soft north-window light, gentle and even.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. Boardy presses a delicate pink flower between two heavy books, setting the top book down carefully, a few petals just visible at the page edge. Boardy's head is the familiar matte tan corrugated cardboard box with a straight front seam, slightly uneven edges and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, floating brows, brow marks or other facial features. He wears the fitted dark navy suit, crisp white shirt and red tie from the approved official reference, with unchanged proportions and silhouette. No lettering, logos or watermarks anywhere in the image.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark, book titles"
+}

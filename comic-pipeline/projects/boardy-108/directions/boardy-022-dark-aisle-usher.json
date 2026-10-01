@@ -1,0 +1,18 @@
+{
+  "camera": "Wide medium shot from behind and slightly side, long lens.",
+  "composition": "Boardy at left leading two silhouetted people down a dark theater aisle, his flashlight beam pointing at the floor ahead; his face turned toward the viewer.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie.",
+    "Two audience members seen only as dark silhouettes from behind."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Almost dark; a narrow flashlight cone and faint red floor strip lights.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. Boardy walks two people down the sloping aisle of a dark cinema, a flashlight beam lighting the carpet ahead, the faint glow of a screen far ahead. Boardy's head is the familiar matte tan corrugated cardboard box with a straight front seam, slightly uneven edges and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, floating brows, brow marks or other facial features. He wears the fitted dark navy suit, crisp white shirt and red tie from the approved official reference, with unchanged proportions and silhouette. No lettering, logos or watermarks anywhere in the image.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark"
+}

@@ -1,0 +1,18 @@
+{
+  "camera": "Medium shot at chest height, 35mm look, shallow depth of field.",
+  "composition": "Boardy, a film director, at center with one hand raised as if calling a note and the other holding an oversized black-and-white clapperboard angled to the camera; the slate carries a chalked '108' in its lower part and a large clean empty dark slate area above it, reserved for a later logo insert. A folding canvas director's chair with a blank backrest stands behind him; a small field monitor sits in the lower foreground showing only screen glow.",
+  "characters": [
+    "Boardy, a film director: a cardboard-box-headed humanoid in a fitted navy blue suit, crisp white shirt and plain dark tie. Warm, confident and mid-thought."
+  ],
+  "locked_traits": [
+    "Plain unprinted kraft-brown cardboard box head with a clean horizontal seam.",
+    "Two small dark eye marks and one simple friendly smile; no eyebrows, floating brows or brow-like marks.",
+    "Fitted navy blue suit, crisp white shirt and plain dark tie (scene-specific exception to the ordinary red tie).",
+    "Identical proportions and silhouette to the approved reference.",
+    "The clapperboard slate has a clean, unobstructed, unmarked area reserved for the logo, which is added afterwards; do not draw or imitate any logo."
+  ],
+  "lighting": "Single soft key from camera left, cool ambient fill, one warm practical in the background; matte, no glare.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. A film director on set. Boardy raises one hand as if calling a note and holds an oversized black-and-white clapperboard angled to the camera, with \"108\" chalked in clear white handwriting on the lower part of the slate and the rest of the slate a clean, flat, empty dark surface with no drawing or marks. A folding canvas director's chair with a blank backrest stands behind him. A small field monitor sits in the lower foreground, only its screen glow visible with unreadable contents. The studio behind is out of focus: softboxes, coiled cable and a scuffed floor, with one warm practical light in the background. The palette is navy, warm grey and kraft brown. Matte, no glare. Boardy's head is a cardboard box of plain unprinted kraft-brown board with a clean horizontal seam. His face has exactly two small dark eye marks and one simple friendly smile, with absolutely no eyebrows, floating brows, brow marks or other facial features, matching the official Boardy face. He wears a fitted navy blue suit, a crisp white shirt and a plain dark tie, with unchanged proportions and silhouette. The only lettering in the image is the chalked \"108\" on the clapperboard slate; no other lettering, no logos drawn anywhere, no watermark or signature.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark, extra people, extra limbs, deformed hands, gibberish text, watermark, signature, any logo drawn on the slate, collage, heavy 3D render sheen"
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+pipeline.config.json
+comic-pipeline/projects/*/runs/
+comic-pipeline/projects/*/requests/
+comic-pipeline/projects/*/attempts/
+comic-pipeline/projects/*/outputs/

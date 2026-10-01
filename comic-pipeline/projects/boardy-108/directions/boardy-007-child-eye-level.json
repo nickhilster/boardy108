@@ -1,0 +1,18 @@
+{
+  "camera": "Medium shot at child eye level, side three-quarter view.",
+  "composition": "Boardy kneels on one knee at the left, box head tilted attentively; a small child seen mostly from behind and the side at right, facing him, at the same eye level.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie.",
+    "A small child in a plain yellow raincoat, seen from behind and the side, with no distinct facial detail."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Soft afternoon daylight from a window at camera left, warm and gentle.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. Boardy kneels to speak with a small child at eye level, his box head tilted attentively; the child faces him, turned mostly away from the camera, in a bright living room with scattered toys softly blurred. Boardy's head is the familiar matte tan corrugated cardboard box with a straight front seam, slightly uneven edges and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, floating brows, brow marks or other facial features. He wears the fitted dark navy suit, crisp white shirt and red tie from the approved official reference, with unchanged proportions and silhouette. No lettering, logos or watermarks anywhere in the image.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark"
+}

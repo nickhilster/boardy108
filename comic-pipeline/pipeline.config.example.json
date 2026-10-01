@@ -1,0 +1,29 @@
+{
+  "_comment": "Copy to pipeline.config.json (gitignored) and edit for this machine. Every key can also be set as an environment variable: comfy_root -> PANELFORGE_COMFY_ROOT, and so on. Only comfy_root is required.",
+
+  "_paths": "Use forward slashes even on Windows. They work in both the Python and PowerShell launchers, and they avoid JSON's backslash escaping (C:\\\\dir, not C:\\dir).",
+  "comfy_root": "E:/AI/ComicPipeline/ComfyUI",
+
+  "_comfy_output_root": "Optional. Defaults to <comfy_root>/output.",
+  "comfy_output_root": null,
+
+  "_urls": "Optional. Defaults shown; change only if you run these elsewhere.",
+  "comfy_url": "http://127.0.0.1:8188",
+  "ollama_url": "http://127.0.0.1:11434",
+
+  "_model": "Optional. The Ollama vision model used for panel direction.",
+  "model": "qwen3-vl:8b",
+
+  "_cloud_director": "Optional, only used with --director cloud (see cloud_director.py). The API key itself is never read from this file -- set it as an environment variable named for the provider (e.g. ANTHROPIC_API_KEY), never committed anywhere.",
+  "cloud_director_provider": "anthropic",
+  "cloud_director_model": "claude-sonnet-5",
+
+  "_meme_font": "Optional. Path to a .ttf for meme captions. Defaults to Windows' bundled Impact font if present.",
+  "meme_font": null,
+
+  "_meme_intake_port": "Optional. Port for meme_intake/server.py. Defaults shown.",
+  "meme_intake_port": 8765,
+
+  "_meme_projects_root": "Optional. Directory containing meme project folders for meme_intake/server.py. Defaults to the current directory.",
+  "meme_projects_root": null
+}

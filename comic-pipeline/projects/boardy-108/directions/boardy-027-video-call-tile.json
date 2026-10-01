@@ -1,0 +1,18 @@
+{
+  "camera": "Straight-on view of a laptop screen filled with a video-call grid.",
+  "composition": "A grid of video tiles; in one small corner tile, Boardy sits listening with his head slightly tilted, the other tiles showing blurred generic people-shaped figures.",
+  "characters": [
+    "Boardy, the cardboard-box-headed humanoid in a fitted navy suit, white shirt, and red tie.",
+    "Other call participants only as soft, blurred, anonymous figures in tiles."
+  ],
+  "locked_traits": [
+    "Matte corrugated cardboard box head with visible seams, packing tape and imperfect edges.",
+    "Two simple deep-navy circular eyes and one friendly curved navy smile; no nose and no eyebrows or brow-like marks.",
+    "Fitted navy suit, crisp white shirt and red tie matching the approved official-page reference.",
+    "Identical proportions and silhouette to the approved reference."
+  ],
+  "lighting": "Cool screen light with Boardy's tile lit by a warm desk lamp.",
+  "continuity": "",
+  "positive_prompt": "A cinematic, photorealistic still. A video call grid on a laptop screen, Boardy in a small corner tile listening attentively with his box head tilted, the other tiles blurred and anonymous. Boardy's head is the familiar matte tan corrugated cardboard box with a straight front seam, slightly uneven edges and subtle packing-tape detail. His face has exactly two simple deep-navy circular eyes and one friendly curved navy smile, with absolutely no eyebrows, floating brows, brow marks or other facial features. He wears the fitted dark navy suit, crisp white shirt and red tie from the approved official reference, with unchanged proportions and silhouette. No lettering, logos or watermarks anywhere in the image.",
+  "negative_prompt": "eyebrows, floating brows, brow marks, extra facial features, lettering, logos, watermark, interface text, names, buttons"
+}
